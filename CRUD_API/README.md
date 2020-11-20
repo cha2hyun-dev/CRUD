@@ -25,4 +25,5 @@ REST API using Django REST Framework
 -   config/settings 에 third party app 추가
 -   THIRD_PARTY_APPS = ["rest_framework",]
 -   django-admin startapp boards (게시판 앱 추가)
+    -> model, view, url, serializer 등 추가
 -   makemigrations / migrate
